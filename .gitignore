@@ -14,7 +14,7 @@ __pycache__/
 
 data/
 *.csv
-!tests/boletines_muestra/**
+!tests/sample_bulletins/**
 
 
 pgdata/
